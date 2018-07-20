@@ -1,7 +1,6 @@
- 
+
 CONTENTS OF THIS FILE - From Branch
 -----------------------------------
- 
 
  * About Drupal
  * Configuration and features
