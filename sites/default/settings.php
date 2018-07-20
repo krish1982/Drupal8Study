@@ -1,5 +1,5 @@
 <?php
-// Test from branch
+
 /**
  * @file
  * Drupal site-specific configuration file.
